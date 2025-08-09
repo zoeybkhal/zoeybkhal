@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello! (●'◡'●)
+
+I’m a CS student with a keen interest in digital security. I’m still a beginner coder but committed to learning every day. 
+
+Languages I’m learning: Java, C++, JavaScript, Python, HTML, and CSS. 
+
+Feel free to reach out to me at: zoeybkhalil@gmail.com or zb00367@surrey.ac.uk 
+
+-- I’m open to collaborating on projects, let’s connect!
 
 <!--
 **zoeybkhal/zoeybkhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
