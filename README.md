@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top">
-      I’m a CS student with a keen interest in digital security. I’m still a beginner coder but committed to learning every day.<br>
+      I’m a CS student at the University of Surrey with a keen interest in digital security. I’m still a beginner coder but committed to learning every day.<br>
       <p></p>Languages I'm learning: Java, C++, JavaScript, Python, HTML and CSS<br></p>
       📫 Feel free to reach out to me at: zoeybkhalil@gmail.com or zb00367@surrey.ac.uk<br>
       <p></p>🤍 I’m open to collaborating on projects, let’s connect! <br></p>
